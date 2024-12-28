@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Little Rock Lot (Superman)",
+        "cost": 96.0,
+        "sold": 78.0,
+        "profit_loss": -18.0
+    },
+    {
+        "name": "Banana Republic Pant",
+        "cost": 15.0,
+        "sold": 0.0,
+        "profit_loss": -15.0
+    }
+]
